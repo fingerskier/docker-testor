@@ -1,0 +1,1 @@
+docker run -d -p 9000:3000 node-express-docker-test
